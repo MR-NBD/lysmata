@@ -5,13 +5,13 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "lysmata"
 version = "0.1.0"
-description = "A powerful smart contract fuzzer for Solidity"
+description = "A smart contract fuzzer for Solidity"
 readme = "README.md"
 requires-python = ">=3.8,<3.11"
 license = {text = "MIT"}
 keywords = ["ethereum", "solidity", "fuzzing", "testing", "smart-contracts", "security"]
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "MR-NBD", email = "albertoameglio@gmail.com"}
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -26,9 +26,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/lysmata"
-"Bug Reports" = "https://github.com/yourusername/lysmata/issues"
-"Source" = "https://github.com/yourusername/lysmata"
+Homepage = "https://github.com/MR-NBD/lysmata"
+"Bug Reports" = "https://github.com/MR-NBD/lysmata/issues"
+"Source" = "https://github.com/MR-NBD/lysmata"
 
 [project.scripts]
 lysmata = "lysmata.main:main"
