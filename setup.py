@@ -18,12 +18,12 @@ with open(os.path.join(this_directory, 'requirements.txt'), encoding='utf-8') as
 setup(
     name='lysmata',
     version='0.1.0',
-    author='Your Name',
-    author_email='your.email@example.com',
-    description='A powerful smart contract fuzzer for Solidity',
+    author='MR-NBD',
+    author_email='albertoameglio@gmail.com',
+    description='A smart contract fuzzer for Solidity',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/lysmata',
+    url='https://github.com/MR-NBD/lysmata',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
@@ -46,7 +46,7 @@ setup(
     include_package_data=True,
     keywords='ethereum solidity fuzzing testing smart-contracts security',
     project_urls={
-        'Bug Reports': 'https://github.com/yourusername/lysmata/issues',
-        'Source': 'https://github.com/yourusername/lysmata',
+        'Bug Reports': 'https://github.com/MR-NBD/lysmata/issues',
+        'Source': 'https://github.com/MR-NBD/lysmata',
     },
 )
