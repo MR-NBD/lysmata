@@ -1,6 +1,6 @@
 # Lysmata
 
-**Lysmata** is a powerful smart contract fuzzer for Solidity, designed to automatically discover bugs and invariant violations in Ethereum smart contracts through advanced property-based testing and fuzzing techniques.
+**Lysmata** is a smart contract fuzzer for Solidity, designed to automatically discover bugs and invariant violations in Ethereum smart contracts through advanced property-based testing and fuzzing techniques.
 
 ## Features
 
