@@ -169,20 +169,6 @@ Future improvements planned for Lysmata:
 - [ ] Integration with popular testing frameworks
 - [ ] Web-based dashboard for test results
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Built on [Hypothesis](https://hypothesis.readthedocs.io/) for property-based testing
@@ -194,6 +180,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or feature requests, please open an issue on GitHub.
 
----
-
-**Note**: Lysmata is a testing tool and should be used as part of a comprehensive smart contract security audit. It does not guarantee the absence of bugs or vulnerabilities.
